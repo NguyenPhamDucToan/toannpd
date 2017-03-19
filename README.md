@@ -1,5 +1,5 @@
 # gittut
-TUT git
+TUT git:  
 1.TUT git clone and push pull in branch master:  
 `git clone https://....linkweb...`  
 `git pull origin master`(example pull branchs master)  
