@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git tutorial
 
 Cách sử dụng git cơ bản:  
@@ -31,3 +32,13 @@ Ví dụ: `git add thanhduong/baitapvim` là thêm thư mục.
 12. Để kéo từ nhánh *thanhduong* về máy tính gõ lệnh `git pull origin thanhduong`  
 13. Mô tả hành động trước khi push gõ lệnh `git commit -a -m "mo ta hanh dong vua thuc hien"`  
 14. Để push lên github gõ lệnh `git push -u origin thanhduong`. Sau đó nhập user và password.  
+=======
+# gittut
+TUT git:  
+1.TUT git clone and push pull in branch master:  
+`git clone https://....linkweb...`  
+`git pull origin master`(example pull branchs master)  
+`git add README.md`(example add file readme)  
+`git commit -a -m "megs"`(-a is all changes)  
+`git push origin master`(example push branchs master)
+>>>>>>> c81a7244c9099cd42d3177e884fdaccc56c68fa3
